@@ -13,4 +13,6 @@ Specifically, we build a linear regression model that more accurately predicts t
 In this project we predicted the amount of co2 emission that is to be emitted from a car engine given the explanatory variables.
 
 * ### Data-Visualization
-Data Visualization of a Sales data.
+[Data Visualization of a Sales data.](https://github.com/Folu22/Data-Visualization/blob/main/sales-data-viz.ipynb)
+
+This project is a data analysis project, this project contains certain questions answered through visualiztion.
